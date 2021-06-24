@@ -4,6 +4,7 @@
         "modelExtURL": "",
         "modelIntURL": "",
         "envURL": "",
+		"IBLURL": "https://raw.githubusercontent.com/sylvain-d-guimond/public_content/main/autoshop.env",
 		"useSceneLoader": false
     },
     "variants": {
