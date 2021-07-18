@@ -1,10 +1,10 @@
 {
     "paths": {
-        "camerasURL": "https://dl.dropbox.com/s/yj268v7dbzl0adc/Scene_Setup_for_WebGL_Camsv2.glb",
-        "modelExtURL": "https://dl.dropbox.com/s/lxdz9tbm61fa14l/Scene_Setup_for_WebGL_Ext.glb",
-        "modelIntURL": "https://dl.dropbox.com/s/ik61v38zbnpex09/Scene_Setup_for_WebGL_Int.glb",
-        "envURL": "https://dl.dropbox.com/s/3iqff7cqlzi0w86/Scene_Setup_for_WebGL_Env.glb",
-        "IBLURL": "https://dl.dropbox.com/s/r8t8psdn1u7ysy7/autoshop.env",
+        "camerasURL": "https://88.99.139.182/index.php/s/DyKBMicabE5QHim/download/Scene_Setup_for_WebGL_Camsv2.glb",
+        "modelExtURL": "https://88.99.139.182/index.php/s/FJg7SBtBH78JPRB/download/Scene_Setup_for_WebGL_Ext.glb",
+        "modelIntURL": "https://88.99.139.182/index.php/s/yfTiSmPqHm8o8Nk/download/Scene_Setup_for_WebGL_Int.glb",
+        "envURL": "https://88.99.139.182/index.php/s/assAC55fKASJFYr/download/Scene_Setup_for_WebGL_Env.glb",
+        "IBLURL": "https://88.99.139.182/index.php/s/xRBN2SaPLo8poZj/download/autoshop.env",
         "useSceneLoader": true
     },
     "variants": {
